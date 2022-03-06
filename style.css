@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+@font-face {
+    font-family: letra;
+    src: url(Chida2.ttf);
+}
+@font-face {
+    font-family: letra2;
+    src: url(coolvetica\ rg\ it.ttf);
+}
+div#header{
+    margin-top:auto;
+    margin: auto;
+    width: 400px;
+    height: 100px;
+    background-color: #37474f;
+}
+
+div#body{
+    margin: auto;
+    margin-top: 20px;
+    width: 900px;
+    height: 550px;
+    background-color:#455a64;
+    float: center;
+}
+h1{
+    margin-top: 20px;
+    color: #eceff1;
+    text-align: center;
+    font-family: letra;
+    font-size: 40px;
+}
+h2{
+    color: black;
+    font-family: letra2;
+    font-size: 30px;
+    margin: 10px;
+}
